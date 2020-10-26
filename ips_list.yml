@@ -1,7 +1,7 @@
 common_cells:
-    commit: 1.16.4
+    commit:
     group: QuickLogic-Corp
 
 common_verification:
-    commit: 0.1.1
+    commit:
     group: QuickLogic-Corp
