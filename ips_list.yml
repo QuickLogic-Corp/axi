@@ -1,7 +1,7 @@
 common_cells:
-    commit: master
+    commit: A2-v0.0
     group: QuickLogic-Corp
 
 common_verification:
-    commit: master
+    commit: A2-v0.0
     group: QuickLogic-Corp
